@@ -55,9 +55,9 @@ from googleapiclient.discovery import build as _yt_build
 from googleapiclient.errors import HttpError
 
 _YT_KEYS = [
-    "AIzaSyASOHmGut3MZvE7EgSAAiorBlFRCIXffZQ",
-    "AIzaSyD32f2LJfIUgsATnjalzQqv0lgRrs3u0Bs",
-    "AIzaSyDdElYIHjkdV_4-AdLgB3iF0VYAYvUnnbM",
+    "your Key",
+    "your Key",
+    "your Key",
 ]
 _ki = 0
 
