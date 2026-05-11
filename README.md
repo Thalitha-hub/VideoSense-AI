@@ -1,7 +1,6 @@
 # 🎬 VideoSense AI
 ### Agentic YouTube Video Quality Assessment System
 
-> Built during the **École d'Été en Intelligence Artificielle** · Yaoundé, Cameroon · March–April 2026  
 > **Author:** Mopock Talla Ceverine Thalitha  Data Scientist
 
 ---
