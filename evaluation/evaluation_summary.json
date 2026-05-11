@@ -1,0 +1,37 @@
+{
+  "sentiment": {
+    "agent": "sentiment",
+    "mean_score": 2.68,
+    "std_score": 5.44,
+    "score_range": "-9.6–9.2",
+    "fallback_rate": 0.073
+  },
+  "noise": {
+    "agent": "noise",
+    "mean_score": 6.85,
+    "std_score": 2.95,
+    "score_range": "0.0–10.0",
+    "fallback_rate": 0.218
+  },
+  "discourse": {
+    "agent": "discourse",
+    "mean_score": 3.15,
+    "std_score": 3.03,
+    "score_range": "0.0–8.0",
+    "fallback_rate": 0.073
+  },
+  "info": {
+    "agent": "info",
+    "mean_score": 2.5,
+    "std_score": 2.11,
+    "score_range": "0.0–8.0",
+    "fallback_rate": 0.309
+  },
+  "helpfulness": {
+    "agent": "helpfulness",
+    "mean_score": 3.92,
+    "std_score": 3.02,
+    "score_range": "0.0–9.0",
+    "fallback_rate": 0.218
+  }
+}
