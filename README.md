@@ -147,19 +147,19 @@ http://127.0.0.1:7860
 
 ## 📈 Explainability Features
 
-- **Radar Chart** — Five-axis chart showing all dimension scores simultaneously
-- **Leaderboard** — Bar chart of all analyzed videos, color-coded by verdict
-- **Natural Language Reasons** — Plain-English explanation of every verdict
-- **Confidence %** — Explicit uncertainty quantification so you know how much to trust the score
+- **Radar Chart**  Five-axis chart showing all dimension scores simultaneously
+- **Leaderboard** Bar chart of all analyzed videos, color-coded by verdict
+- **Natural Language Reasons**  Plain-English explanation of every verdict
+- **Confidence %**  Explicit uncertainty quantification so you know how much to trust the score
 
 ---
 
 ## 🔒 Responsible AI & Ethics
 
-- **Privacy:** Only publicly visible YouTube comments are analyzed — no PII collected or stored
+- **Privacy:** Only publicly visible YouTube comments are analyzed  no PII collected or stored
 - **Bias Awareness:** Missing-score correction prevents entertainment content from being unfairly penalized
 - **Misinformation:** The misinformation risk score is explicitly labeled as an *estimate*, not ground truth
-- **Transparency:** Every prediction includes a full explanation — satisfying the right-to-explanation principle
+- **Transparency:** Every prediction includes a full explanation  satisfying the right-to-explanation principle
 - **Environmental:** Local Ollama inference avoids cloud API calls, reducing carbon footprint
 
 ---
@@ -176,7 +176,7 @@ http://127.0.0.1:7860
 
 ## 👩🏾‍💻 Author
 
-**Mopock Talla Ceverine Thalitha** — Data Scientist  
+**Mopock Talla Ceverine Thalitha** Data Scientist  
 📧 ceverinethalitha@gmail.com  
 🐙 [github.com/Thalitha-hub](https://github.com/Thalitha-hub)  
 💼 [linkedin.com/in/talla-thalitha](https://linkedin.com/in/talla-thalitha)
