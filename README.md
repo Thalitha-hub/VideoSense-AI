@@ -2,7 +2,7 @@
 ### Agentic YouTube Video Quality Assessment System
 
 > Built during the **École d'Été en Intelligence Artificielle** · Yaoundé, Cameroon · March–April 2026  
-> **Author:** Mopock Talla Ceverine Thalitha — Data Scientist
+> **Author:** Mopock Talla Ceverine Thalitha  Data Scientist
 
 ---
 
@@ -28,7 +28,7 @@ The system is **agentic**: five specialist AI agents each analyze a different di
 
 ---
 
-## 🧠 How It Works — End-to-End Pipeline
+## 🧠 How It Works End-to-End Pipeline
 
 | Step | Action | Output |
 |---|---|---|
@@ -183,4 +183,4 @@ http://127.0.0.1:7860
 
 ---
 
-> *VideoSense AI demonstrates that responsible, explainable AI systems can be built rapidly using open-source tools. Instead of trusting view counts or thumbnails, the system reads what real viewers said — and explains its reasoning transparently.*
+> *VideoSense AI demonstrates that responsible, explainable AI systems can be built rapidly using open-source tools. Instead of trusting view counts or thumbnails, the system reads what real viewers said  and explains its reasoning transparently.*
